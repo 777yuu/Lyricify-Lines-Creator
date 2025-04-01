@@ -11,10 +11,7 @@ Lyricify Lines 逐行歌词打轴工具。是 Lyricify Lines 歌词的制作工�
 4. 支持多语言本地化。
 
 ## 开发原因
-1. Lyricify 系列缺少 Lyricify Lines 歌词的打轴工具。
-2. 学校课程需要交作业。*
-
-注：* 为主要原因。
+Lyricify 系列缺少 Lyricify Lines 歌词的打轴工具。
 
 ## 开源与贡献
 本项目通过 [LGPL 2.1 协议](LICENSE)开源，同时欢迎各位开发者为本项目贡献代码。  
